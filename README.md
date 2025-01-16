@@ -18,7 +18,7 @@ TaskManagerAPI is a web API built using ASP.NET Core that allows users to manage
 - **Backend Framework**: ASP.NET Core
 - **Database**: SQL Server (using Entity Framework Core for ORM)
 - **Tools**: Visual Studio 2022, .NET CLI
-- **API Documentation**: Swagger
+- **API Documentation**: Swagger, Postman
 
 ## Endpoints
 
